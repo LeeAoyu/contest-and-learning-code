@@ -6,8 +6,6 @@
 
 ## 📁 目录规划
 - `algorithm/` 基础算法、数据结构练习
-- `ccpc/` CCPC竞赛题解
-- `math-modeling/` 数学建模相关代码
 - `daily-practice/` 日常C/C++练习
 
 ## 🛠 环境
